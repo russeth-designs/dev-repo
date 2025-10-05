@@ -1,0 +1,19 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Compiled code and build artifacts
+*.o
+*.pyc
+bin/
+target/
+
+# Dependency caches
+node_modules/
+
+# Sensitive configuration
+.env
